@@ -1,2 +1,2 @@
-# star_citizen
+# starcitizen
 An unofficial API for Star Citizen written in Dart
